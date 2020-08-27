@@ -7,4 +7,4 @@
 - change the path the file will be downloaded to in `youtubedl.py`
 
 ## Run
-- python youtubedl.py
+`python youtubedl.py`
